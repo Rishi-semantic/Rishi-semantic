@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rishi Kumar</h1>
 <h3 align="center">A passionate Data Scientist fro India</h3>
 
-- 👯 I’m looking to collaborate on **Machine Learning , Deep Learning**
+- 👯 I’m looking to collaborate on **Machine Learning , Deep Learning , Data Analysis**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning , AI, Data Science**
 
 - 📫 How to reach me **rishik.8102001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1wq46sdFEp9Xt8DzBR8xGlMyQoKYsNY8e/view?usp=drive_link](https://drive.google.com/file/d/1wq46sdFEp9Xt8DzBR8xGlMyQoKYsNY8e/view?usp=drive_link)
+- Blogs [https://medium.com/@rishik.8102001]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
